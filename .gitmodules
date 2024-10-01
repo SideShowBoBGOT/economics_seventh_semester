@@ -1,0 +1,3 @@
+[submodule "lab_2/FlaskProject"]
+	path = lab_2/FlaskProject
+	url = https://github.com/SideShowBoBGOT/FlaskProject
