@@ -4,3 +4,6 @@
 [submodule "lab_3/FlaskProject"]
 	path = lab_3/FlaskProject
 	url = https://github.com/SideShowBoBGOT/FlaskProject
+[submodule "lab_4/FlaskProject"]
+	path = lab_4/FlaskProject
+	url = https://github.com/SideShowBoBGOT/FlaskProject
