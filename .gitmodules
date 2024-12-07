@@ -7,3 +7,45 @@
 [submodule "lab_4/FlaskProject"]
 	path = lab_4/FlaskProject
 	url = https://github.com/SideShowBoBGOT/FlaskProject
+[submodule "lab_5/external/RwLock"]
+	path = lab_5/external/RwLock
+	url = https://github.com/SideShowBoBGOT/RwLock
+[submodule "lab_5/external/NBUCurrencyTracker"]
+	path = lab_5/external/NBUCurrencyTracker
+	url = https://github.com/SideShowBoBGOT/NBUCurrencyTracker
+[submodule "lab_5/external/CppFuse"]
+	path = lab_5/external/CppFuse
+	url = https://github.com/SideShowBoBGOT/CppFuse
+[submodule "lab_5/external/mcts_checkers"]
+	path = lab_5/external/mcts_checkers
+	url = https://github.com/SideShowBoBGOT/mcts_checkers
+[submodule "lab_5/external/FlaskProject"]
+	path = lab_5/external/FlaskProject
+	url = https://github.com/SideShowBoBGOT/FlaskProject
+[submodule "lab_5/external/FunctionalProgrammingHaskell"]
+	path = lab_5/external/FunctionalProgrammingHaskell
+	url = https://github.com/SideShowBoBGOT/FunctionalProgrammingHaskell
+[submodule "lab_5/external/network_programming_eighth_semester"]
+	path = lab_5/external/network_programming_eighth_semester
+	url = https://github.com/SideShowBoBGOT/network_programming_eighth_semester
+[submodule "lab_5/external/SystemProgrammingFourthSemester"]
+	path = lab_5/external/SystemProgrammingFourthSemester
+	url = https://github.com/SideShowBoBGOT/SystemProgrammingFourthSemester
+[submodule "lab_5/external/PetriObjModelPaint"]
+	path = lab_5/external/PetriObjModelPaint
+	url = https://github.com/SideShowBoBGOT/PetriObjModelPaint
+[submodule "lab_5/external/ConsoleChess"]
+	path = lab_5/external/ConsoleChess
+	url = https://github.com/SideShowBoBGOT/ConsoleChess
+[submodule "lab_5/external/CPong"]
+	path = lab_5/external/CPong
+	url = https://github.com/SideShowBoBGOT/CPong
+[submodule "lab_5/external/SideShowBoBGOT.github.io"]
+	path = lab_5/external/SideShowBoBGOT.github.io
+	url = https://github.com/SideShowBoBGOT/SideShowBoBGOT.github.io
+[submodule "lab_5/external/software_security_seventh_semester"]
+	path = lab_5/external/software_security_seventh_semester
+	url = https://github.com/SideShowBoBGOT/software_security_seventh_semester
+[submodule "lab_5/external/MultithreadedProgrammingSixthSemester"]
+	path = lab_5/external/MultithreadedProgrammingSixthSemester
+	url = https://github.com/SideShowBoBGOT/MultithreadedProgrammingSixthSemester
