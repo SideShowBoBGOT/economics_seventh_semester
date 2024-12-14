@@ -49,3 +49,6 @@
 [submodule "lab_5/external/MultithreadedProgrammingSixthSemester"]
 	path = lab_5/external/MultithreadedProgrammingSixthSemester
 	url = https://github.com/SideShowBoBGOT/MultithreadedProgrammingSixthSemester
+[submodule "lab_6/external/cppfront"]
+	path = lab_6/external/cppfront
+	url = git@github.com:hsutter/cppfront.git
